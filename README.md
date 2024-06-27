@@ -1,1 +1,2 @@
 # classification-metrics
+I learned about classification metrics, which are crucial for evaluating the performance of classification models by providing insights into metrics such as accuracy, precision, recall, F1-score, and ROC curves. These metrics help in assessing how well a model predicts classes and its ability to correctly identify true positives, false positives, true negatives, and false negatives. Understanding classification metrics is essential for making informed decisions about model selection, tuning, and optimization in machine learning tasks.
